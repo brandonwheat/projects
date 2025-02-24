@@ -18,7 +18,7 @@ An interactive pool table system combining computer vision and projection mappin
 - Projects dynamic animations highlighting each ball's movement path
 - Special visual effects when balls enter pockets
 - Real-time ball path tracing with projected trails
-- [Watch Demo Preview](https://youtube.com/shorts/EmIpFza94sw?feature=share)
+- [Watch Demo Preview](https://www.youtube.com/watch?v=kWbi7FPyUaA)
 
 ## Technical Implementation
 - Built using Python and OpenCV for real-time object detection
